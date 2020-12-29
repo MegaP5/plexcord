@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="content">
+    <file>plexcord.png</file>
+  </qresource>
+</RCC>
